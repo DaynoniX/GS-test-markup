@@ -1,0 +1,34 @@
+{
+  "name": "gulp-stub",
+  "version": "1.0.0",
+  "description": "Actualized",
+  "main": "index.js",
+  "scripts": {
+    "test": "Warning: No test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaynoniX/gulp-stub.git"
+  },
+  "author": "daynonixx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaynoniX/gulp-stub/issues"
+  },
+  "homepage": "https://github.com/DaynoniX/gulp-stub#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cssimport": "^7.0.0",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^1.12.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "imagemin-pngquant": "^9.0.2",
+    "sass": "^1.54.0"
+  }
+}

@@ -1,0 +1,30 @@
+// FONTS MIXIN IMPORT
+
+@import 'fontsMixin';
+
+// FONTS MIXIN GENERATION
+
+@include font-face(Inter-Bold, fonts/Inter-Bold, null , null , ttf);
+@include font-face(Inter-Regular, fonts/Inter-Regular, null , null , ttf);
+@include font-face(Inter-Medium, fonts/Inter-Medium, null , null , ttf);
+
+
+//FONTS MIXIN VARIABLES
+
+$Inter-Bold: 'Inter-Bold', sans-serif;
+$Inter-Regular : 'Inter-Regular', sans-serif;
+$Inter-Medium : 'Inter-Medium', sans-serif;
+
+// UI
+
+$white: #FFFFFF;
+$unaktive-color: #415867;
+$accent-color: #C8972C;
+$input-color: #878787;
+$dark-header-color: #1F2D3A;
+$plain-text-color: #8095A4;
+$hover-links-color: #9BB3C2;
+$dark-bg: #082030;
+
+
+
